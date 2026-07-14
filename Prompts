@@ -1,0 +1,77 @@
+Aqui estão alguns prompts que utilizei e achei interessantes, são prompts simples, apenas para tirar dúvidas essenciais.
+=============================================================================================================
+Promt 1: Quais bibliotecas de Python são essenciais para análise de dados?
+Resposta: 
+1. Pandas
+É amplamente citada como a principal biblioteca para análise de dados
+Ela é utilizada para a coleta, organização, limpeza, tratamento e manipulação de dados estruturados
+Sua principal estrutura é o DataFrame, que funciona como uma tabela altamente eficiente para processar grandes volumes de informações
+
+2. NumPy
+Sigla para Numerical Python, é fundamental para computação numérica e científica
+Ela oferece suporte para matrizes e vetores multidimensionais, além de funções matemáticas e de estatística básica indispensáveis para o processamento de dados
+
+3. SciKit-Learn
+É a biblioteca padrão para quem deseja aplicar Machine Learning
+Além de permitir a criação de modelos preditivos, ela possui funções básicas importantes para o tratamento inicial dos dados, facilitando o trabalho em conjunto com o Pandas e o NumPy
+
+4. Matplotlib e Seaborn
+Ambas trabalham em conjunto para a visualização de dados
+Matplotlib: É a biblioteca base para a criação e manipulação de gráficos
+Seaborn: Construída sobre o Matplotlib, é usada para gerar gráficos estatísticos mais sofisticados e visualmente atraentes de forma mais simples
+
+5. SciPy
+Utilizada para computação científica e técnica, complementa o NumPy com algoritmos para otimização, integração e outras tarefas matemáticas avançadas necessárias na análise de dados
+Resumo das Aplicações
+No dia a dia do analista, essas ferramentas são usadas de forma integrada: o Pandas limpa e organiza os dados, o NumPy e o SciPy realizam os cálculos matemáticos complexos, o Matplotlib/Seaborn traduzem os resultados em gráficos para o data storytelling e o SciKit-Learn permite prever tendências futuras através de modelos de inteligência artificial
+=============================================================================================================
+Prompt 2: Em quanto tempo posso entrar no mercado de trabalho?
+Resposta:
+1. O Plano Realista de 6 Meses
+Este é considerado o caminho mais seguro para quem está começando do zero e deseja ter pressa sem "ficar travado"
+. Ele se divide em:
+Meses 1 a 3 (Habilidades Técnicas): Foco total no "trio essencial": Excel, Power BI e SQL
+O Python e a Inteligência Artificial entram como diferenciais após essa base estar construída
+Mês 4 (Projetos): Criação de um portfólio com 3 a 4 projetos que resolvam problemas de negócio reais e integrem ferramentas (ex: SQL + Power BI)
+Meses 5 e 6 (Candidaturas): Preparação para testes técnicos e processos seletivos
+
+2. O Caminho Acelerado (3 Semanas a 1 Mês)
+De acordo com os especialistas das fontes, é possível começar a se candidatar a vagas em um prazo muito menor se você focar no essencial:
+Domínio do Básico: Aprender estatística descritiva básica, Excel (tabelas dinâmicas e funções como PROCV) e o básico de Python e SQL
+Ação Imediata: Com esse conhecimento mínimo e um portfólio de estudos com 3 a 5 pequenos projetos, você já deve começar a buscar vagas no LinkedIn em cerca de três semanas a um mês
+
+3. Fatores que Aceleram sua Contratação
+As fontes enfatizam que a rapidez do seu ingresso no mercado depende de certas atitudes:
+Consistência Brutal: Estudar de 1 a 2 horas por dia, todos os dias, é mais produtivo do que estudar muitas horas apenas no final de semana
+Regra dos 70/30: Dedique 70% do seu tempo à prática (codificando e resolvendo problemas) e apenas 30% à teoria
+Não espere estar "100% pronto": Muitos gestores preferem contratar alguém com vontade e conhecimento básico para lapidar o profissional conforme o perfil da empresa
+Se você já sabe o básico de Excel, estatística e Python/SQL, já pode iniciar as candidaturas
+Portfólio é o novo Currículo: Na área de dados, mostrar o que você sabe fazer através de projetos de estudo é mais importante do que ter experiência prévia formal
+=============================================================================================================
+Prompt 3: Quais projetos de portfólio são recomendados para iniciantes em dados?
+Resposta:
+Para iniciantes na área de dados, as fontes recomendam a criação de um portfólio com 3 a 5 projetos que demonstrem sua capacidade técnica e, acima de tudo, sua visão de negócio.
+O portfólio é considerado o "novo currículo", sendo muitas vezes mais importante do que a experiência formal para quem busca a primeira vaga
+Aqui estão os tipos de projetos recomendados e ideias específicas extraídas dos materiais:
+
+1. Projetos de Resolução de Problemas de Negócio
+O erro mais comum é criar gráficos "bonitos" que não dizem nada.
+Seus projetos devem começar com uma pergunta ou problema real
+Análise de Churn (Cancelamento): Em vez de apenas mostrar vendas, crie uma análise que identifique o risco de cancelamento por segmento e recomende ações urgentes, como campanhas de retenção para clientes com risco acima de 70%
+Análise de Custos e Gastos: Identifique onde está a maior concentração de gastos de uma empresa no último ano e quais categorias de produtos mais cresceram em vendas
+Análise de RH (People Analytics): Utilize dados de funcionários para calcular métricas como média salarial por departamento, idade média e identificar o perfil de funcionários ativos versus inativos
+
+2. Projetos com Integração de Ferramentas
+Demonstrar que você sabe conectar diferentes tecnologias é um diferencial gigante
+SQL + Power BI/Excel: Extraia dados de um banco de dados usando SQL, trate-os e crie um dashboard interativo para visualização
+Python + Pandas: Realize a limpeza e o tratamento de grandes volumes de dados (ex: bases com 800.000 linhas) para extrair insights que seriam difíceis de obter apenas com planilhas manuais
+
+3. Projetos de Automação e IA
+Web Scraping ou Botes: Crie um script que colete dados automaticamente da internet para análise posterior
+Visão Computacional Simples: Um exemplo prático seria um software que utiliza imagens para inspecionar e detectar defeitos em produtos de uma linha de produção
+
+Dicas Estratégicas para o Portfólio
+Onde encontrar dados: Utilize o site Kaggle.com, que oferece bases de dados gratuitas e completas com perguntas de análise prontas para serem respondidas
+Apresentação é tudo: Descreva seus projetos no LinkedIn como se fossem trabalhos reais, focando no valor gerado para o "cliente" ou "gestor"
+Regra 70/30: Dedique 70% do seu tempo construindo esses projetos e apenas 30% estudando a teoria; o aprendizado real acontece ao resolver os bugs que surgem durante a prática
+Use IA como copiloto: Se estiver sem ideias, jogue uma base de dados no ChatGPT ou Gemini e peça para ele sugerir perguntas de negócio que você pode responder com aquele projeto
